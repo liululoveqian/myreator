@@ -1,3 +1,3 @@
 # myreator
-a asynchronous networking library  in c implementation 
+a networking library  in c implementation 
 reactor model 
